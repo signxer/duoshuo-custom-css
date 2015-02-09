@@ -1,0 +1,122 @@
+/*
+ * 多说评论的 CSS 样式；
+ * Origin（初始版本）；
+ * 作者：Pagecho < http://www.v2ex.com/t/118650 >；
+ * 发布时间：2014-06-22；
+ */
+
+#ds-thread #ds-reset .ds-meta,.ds-powered-by,.ds-toolbar-buttons,.ds-post-likes,.ds-post-repost,.ds-post-report,.ds-icon-reply{
+	display: none!important;
+}
+#ds-reset .ds-gradient-bg,#ds-thread #ds-reset .ds-textarea-wrapper{
+	background:none!important;
+}
+#ds-thread #ds-reset .ds-post-options {
+	border:none!important;
+	border-top: 1px solid #ddd!important;
+	margin-right: 0!important;
+}
+#ds-thread #ds-reset .ds-post-button{
+	top: 10px!important;
+	background:#fff!important;
+	box-shadow:none!important;
+	border:1px solid #ddd!important;
+	right: auto!important;
+	color: #777!important;
+	font-weight:normal!important;
+	outline:none;
+}
+#ds-thread #ds-reset .ds-post-button:hover{
+	color: #444!important;
+}
+#ds-thread #ds-reset .ds-textarea-wrapper textarea{
+	height: 111px!important;
+}
+#ds-reset .ds-rounded-top,#ds-thread #ds-reset li.ds-tab a,#ds-thread #ds-reset #ds-bubble,#ds-reset .ds-avatar img{
+	border-radius: 0!important;
+	border-radius: 0!important;
+	-webkit-border-radius: 0!important;
+	-webkit-border-radius: 0!important;
+}
+#ds-thread #ds-reset li.ds-tab a:hover{
+	background:#fff!important;
+}
+#ds-thread #ds-reset li.ds-tab a.ds-current{
+	background:#fff!important;
+	border:none!important;
+	border-bottom: 2px solid #333!important;
+}
+#ds-thread #ds-reset li.ds-tab a{
+	padding: 14px!important;
+}
+#ds-thread #ds-reset .ds-comments-info{
+	padding-top: 15px!important;
+	padding-bottom: 15px!important;
+	line-height: 1!important;
+}
+#ds-thread #ds-reset .ds-sort{
+	top: 17px!important;
+}
+#ds-thread #ds-reset .ds-post-options{
+	height: 50px!important;
+}
+#ds-thread #ds-reset .ds-comment-body{
+	padding-left: 75px!important;
+}
+#ds-thread #ds-reset .ds-post-self{
+	padding-top: 20px!important;
+	padding-bottom: 20px!important;
+}
+#ds-reset .ds-avatar img{
+	box-shadow: none!important;
+	border:1px solid #ddd;
+	padding: 1px;
+}
+#ds-thread #ds-reset #ds-bubble{
+	border:1px solid #ddd!important;
+	box-shadow:none!important;
+}
+#ds-thread #ds-reset .ds-highlight{
+	color: #000!important;
+}
+
+#ds-thread #ds-reset .ds-replybox{
+	padding-left: 75px!important;
+}
+#ds-thread #ds-reset .ds-inline-replybox .ds-avatar img{
+	width: auto!important;
+	height: auto!important;
+}
+#ds-thread #ds-reset .ds-post-self{
+	padding-left: 0!important;
+}
+#ds-thread #ds-reset .ds-inline-replybox{
+	margin-top: 27px!important;
+	margin-left: -75px!important;
+}
+#ds-thread #ds-reset a.ds-comment-context{
+	border: 1px solid #E3EDF3;
+	background: #F7FAFB;
+	padding: 3px 0 3px 3px;
+	color: #555!important;
+	margin-right: 5px!important;
+}
+#ds-thread #ds-reset .ds-comment-header{
+	padding-bottom: 10px;
+	font-size: 14px;
+}
+#ds-thread #ds-reset .ds-user-name{
+	font-size: 15px!important;
+}
+#ds-thread #ds-reset .ds-comment-footer{
+	padding-top: 5px;
+}
+#ds-thread #ds-reset li.ds-post-placeholder{
+	padding: 20px 0 !important;
+}
+#ds-thread #ds-reset .ds-sync{
+	top: 10px;
+}
+.ds-login-buttons{
+	padding-bottom: 15px!important;
+}
