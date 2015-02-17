@@ -10,7 +10,7 @@
 #ds-reset .ds-gradient-bg, #ds-thread #ds-reset .ds-textarea-wrapper { background: none !important; }
 #ds-reset .ds-like-thread-button, .ds-rounded{
     background: rgba(255,255,255,1) !important;
-    box-shadow: 0 0 0.1px rgba(0,0,0,0.2) !important;
+    box-shadow: 0 0 1px rgba(0,0,0,0.1) !important;
     border: 1px solid #ddd !important;
 }
 #ds-reset .ds-sync{ display: none !important; } /* 隐藏评论框底部分享 */
@@ -72,7 +72,7 @@
 
 body #ds-smilies-tooltip ul.ds-smilies-tabs li a {
     background-image: -webkit-gradient(linear,left 0,left 100%,from(#fff),to(#fff));
-    background-image: -webkit-linear-gradient(top,#fff,0%,#fff,100%);
+    background-image: -webkit-linear-gradient(top,#fff 0,#fff 100%);
     background-image: -moz-linear-gradient(top,#fff 0,#fff 100%);
     background-image: linear-gradient(to bottom,#fff 0,#fff 100%);
     border-bottom: 1px solid #e9e9e9;
@@ -80,7 +80,7 @@ body #ds-smilies-tooltip ul.ds-smilies-tabs li a {
 body #ds-smilies-tooltip {
     border: 0 !important;
     margin-bottom: 1em !important;
-    box-shadow: 0 0 30px rgba(0,0,0,0.2) !important;
+    box-shadow: 0 0 15px rgba(0,0,0,0.15) !important;
 }
 #ds-smilies-tooltip .ds-smilies-container { height: 180px!important; }
 #ds-smilies-tooltip ul.ds-smilies-tabs { height: 180px!important; }
@@ -126,7 +126,6 @@ body #ds-smilies-tooltip {
 }
 #ds-thread #ds-reset .ds-post-options {
     border: 1px solid #ddd !important;
-    border-bottom-color: #ddd !important;
     border-right: none !important;
 }
 #ds-reset .ds-rounded-top {

@@ -34,8 +34,6 @@
 }
 #ds-reset .ds-rounded-top,#ds-thread #ds-reset li.ds-tab a,#ds-thread #ds-reset #ds-bubble,#ds-reset .ds-avatar img{
 	border-radius: 0!important;
-	border-radius: 0!important;
-	-webkit-border-radius: 0!important;
 	-webkit-border-radius: 0!important;
 }
 #ds-thread #ds-reset li.ds-tab a:hover{
