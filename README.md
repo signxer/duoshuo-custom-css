@@ -14,6 +14,6 @@
 - 和白色页面具有很好的融合度，其他颜色的页面请慎用（特别是黑色系的）；
 
 #### 样式预览
-- 截图预览：2B 铅笔 < http://www.ido.moe/articles/277 >；
+- 截图预览：2B 铅笔 < http://www.idongu.com/articles/277 >；
 
 - 实际应用：星尘独奏曲 < http://www.starduster.me/2014/12/26/move-to-aliyun >；
